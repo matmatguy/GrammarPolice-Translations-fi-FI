@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>poliisi maassa</string>
+        <string>meillä on poliisi maassa</string>
+        <string>minulla on poliisi maassa</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>käytössä yhdesti, ei lisää</string>
+        <string>käytössä kahdesti, ei lisää</string>
+        <string>käytössä kolmesti, ei lisää</string>
+        <string>Varattu kerran, ei lisäapua</string>
+        <string>Varattu kahdesti, ei lisäapua</string>
+        <string>Varattu kolmesti, ei lisäapua</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

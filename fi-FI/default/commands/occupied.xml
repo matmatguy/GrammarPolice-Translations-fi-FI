@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+      <string>meillä on neliovi</string>
+	    <string>meillä on kaksiovi</string>
+	    <string>meillä on sedan</string>
+	    <string>meillä on coupe</string>
+	    <string>meillä on quad</string>
+	    <string>meillä on golfauto</string>
+	    <string>meillä on moottoripyörä</string>
+	    <string>meillä on mopo</string>
+        <string>minulla on neliovi</string>
+        <string>minulla on kaksiovi</string>
+        <string>minulla on sedan</string>
+        <string>minulla on coupe</string>
+        <string>minulla on quad</string>
+        <string>minulla on golfauto</string>
+        <string>minulla on moottoripyörä</string>
+        <string>minulla on mopo</string>
+        <string>se tulee olemaan neliovi</string>
+        <string>se tulee oleen kaksiovi</string>
+        <string>se tulee oleen sedan</string>
+        <string>se tulee olemaan coupe</string>
+        <string>se tulee olemaan quad</string>
+        <string>se tulee olemaan golfauto</string>
+        <string>se tulee olemaan moottoripyörä</string>
+        <string>se tulee olemaan mopo</string>
+    </Phrases>
+</Command>

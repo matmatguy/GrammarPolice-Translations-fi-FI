@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>panic</Name>
+    <Action>panic</Action>
+    <Phrases>
+        <string>koodi yhdeksänkymmentä yhdeksän</string>
+        <string>panoksia ammuttu</string>
+    </Phrases>
+</Command>
