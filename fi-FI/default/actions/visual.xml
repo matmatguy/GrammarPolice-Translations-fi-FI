@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>visual</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>näkö</string>
+        <string>epäilyttävän näköinen</string>
+        <string>epäilty hapaittu</string>
+        <string>havaittu</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Visual</Target>
+</Action>

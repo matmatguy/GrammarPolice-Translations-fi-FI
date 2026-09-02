@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+        <string>matkalla</string>
+        <string>Tarkistan sen</string>
+        <string>tarkistan</string>
+        <string>vastaan</string>
+    </Phrases>
+</Command>

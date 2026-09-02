@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>suspect_custody</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>vangittuna</string>
+        <string>epäilty vangittuna</string>
+        <string>epäillyt vangittuna</string>
+        <string>pidätetty</string>
+        <string>epäilty pidätetty</string>
+        <string>epäillyt pidätetty</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.SuspectCustody</Target>
+</Action>
